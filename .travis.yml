@@ -7,3 +7,4 @@ before_install:
 
 script:
   - docker run laleh-shamkhali/docker-react-test npm run test -- --coverage
+
